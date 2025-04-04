@@ -1,0 +1,14 @@
+C:\Users\ITO\Desktop\UDB\Programacion Laboratorio\Desafio02\Presion artereal\Presion artereal\bin\Debug\net9.0\Presion artereal.exe
+C:\Users\ITO\Desktop\UDB\Programacion Laboratorio\Desafio02\Presion artereal\Presion artereal\bin\Debug\net9.0\Presion artereal.deps.json
+C:\Users\ITO\Desktop\UDB\Programacion Laboratorio\Desafio02\Presion artereal\Presion artereal\bin\Debug\net9.0\Presion artereal.runtimeconfig.json
+C:\Users\ITO\Desktop\UDB\Programacion Laboratorio\Desafio02\Presion artereal\Presion artereal\bin\Debug\net9.0\Presion artereal.dll
+C:\Users\ITO\Desktop\UDB\Programacion Laboratorio\Desafio02\Presion artereal\Presion artereal\bin\Debug\net9.0\Presion artereal.pdb
+C:\Users\ITO\Desktop\UDB\Programacion Laboratorio\Desafio02\Presion artereal\Presion artereal\obj\Debug\net9.0\Presion artereal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITO\Desktop\UDB\Programacion Laboratorio\Desafio02\Presion artereal\Presion artereal\obj\Debug\net9.0\Presion artereal.AssemblyInfoInputs.cache
+C:\Users\ITO\Desktop\UDB\Programacion Laboratorio\Desafio02\Presion artereal\Presion artereal\obj\Debug\net9.0\Presion artereal.AssemblyInfo.cs
+C:\Users\ITO\Desktop\UDB\Programacion Laboratorio\Desafio02\Presion artereal\Presion artereal\obj\Debug\net9.0\Presion artereal.csproj.CoreCompileInputs.cache
+C:\Users\ITO\Desktop\UDB\Programacion Laboratorio\Desafio02\Presion artereal\Presion artereal\obj\Debug\net9.0\Presion artereal.dll
+C:\Users\ITO\Desktop\UDB\Programacion Laboratorio\Desafio02\Presion artereal\Presion artereal\obj\Debug\net9.0\refint\Presion artereal.dll
+C:\Users\ITO\Desktop\UDB\Programacion Laboratorio\Desafio02\Presion artereal\Presion artereal\obj\Debug\net9.0\Presion artereal.pdb
+C:\Users\ITO\Desktop\UDB\Programacion Laboratorio\Desafio02\Presion artereal\Presion artereal\obj\Debug\net9.0\Presion artereal.genruntimeconfig.cache
+C:\Users\ITO\Desktop\UDB\Programacion Laboratorio\Desafio02\Presion artereal\Presion artereal\obj\Debug\net9.0\ref\Presion artereal.dll
