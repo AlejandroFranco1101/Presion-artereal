@@ -12,3 +12,4 @@ C:\Users\ITO\Desktop\UDB\Programacion Laboratorio\Desafio02\Presion artereal\Pre
 C:\Users\ITO\Desktop\UDB\Programacion Laboratorio\Desafio02\Presion artereal\Presion artereal\obj\Debug\net9.0\Presion artereal.pdb
 C:\Users\ITO\Desktop\UDB\Programacion Laboratorio\Desafio02\Presion artereal\Presion artereal\obj\Debug\net9.0\Presion artereal.genruntimeconfig.cache
 C:\Users\ITO\Desktop\UDB\Programacion Laboratorio\Desafio02\Presion artereal\Presion artereal\obj\Debug\net9.0\ref\Presion artereal.dll
+C:\Users\ITO\Desktop\UDB\Programacion Laboratorio\Desafio02\Presion artereal\Presion artereal\obj\Debug\net9.0\Presion artereal.sourcelink.json

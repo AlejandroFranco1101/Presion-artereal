@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Presion artereal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2f7dd42453b5a7e2f23812295764368005db2c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Presion artereal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Presion artereal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
